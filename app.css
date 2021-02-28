@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
+body {
+    background-color: #343a40;
+}
+
+.gameHeader {
+    margin: auto;
+    width: 50%;
+}
+
+.gameExplain {
+    margin: auto;
+    width: 50%;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.alphabet {
+    margin: auto;
+    width: 80%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.category {
+    margin: auto;
+    width: 80%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
